@@ -48,13 +48,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @UvinduBro</b>
+<b>© @The_Bad_Bunny_444</b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>😴 Creater :</b> @UvinduBro  
+⭕️<b>😴 Creater :</b> @The_Bad_Bunny_444  
 
 ⭕️<b>🧷 Language :</b> <code>Python3</code>
 
